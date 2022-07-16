@@ -44,7 +44,7 @@ public class ExercicioRepita {
                 + "Quantidade de números acima de 100: " + a + "<hr>"
                 + "Média entre os números: " + m + "<hr> </html>");
          
-        // TODO code application logic here
+        
     }
     
 }
