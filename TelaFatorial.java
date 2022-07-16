@@ -111,9 +111,9 @@ public class TelaFatorial extends javax.swing.JFrame {
      
      
      /* Obs:  essas repetições funcionam de acordo com as repetições vistas em algoritmos:
-        Enquanto  /// While no começo da expressão
-        Repita   ///  Do no começo e While no final
-        Para    ///   For é usado no lugar de While no começo 
+        Enquanto  /// While no começo da expressão.
+        Repita   ///  Do no começo e While no final.
+        Para    ///   For é usado no lugar de While no começo. 
      */
     }//GEN-LAST:event_txtNStateChanged
 
